@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\haile\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\haile\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_CTR Environment.91307853.00" t="ExcludeRecursive" />
+    <e p="C:\Users\haile\Documents\School\Spring 2021\GameDes_Marty2610\CTRProject\CTR-Repo\CTR Environment" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Misc" t="Include">
+          <e p="ScrollTexture.cs" t="Include" />
+          <e p="UVViewer.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Lines_Colored_Blended.shader" t="Include" />
+          <e p="Lines_Colored_Blended_Depth.shader" t="Include" />
+        </e>
+      </e>
+      <e p="CTR Environment.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
