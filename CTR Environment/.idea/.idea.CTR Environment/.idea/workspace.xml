@@ -20,19 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6be3afbe-ea79-44c2-9e06-06cee15d6f61" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CTR Environment/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CTR Environment/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CTR Environment/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CTR Environment/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CTR Environment/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CTR Environment/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CTR Environment/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.CTR Environment/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Fire_Texture_01.tga" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Fire_Texture_01.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CTR Environment/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CTR Environment/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Materials/CTR_Pwr_Up.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Materials/CTR_Pwr_Up.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Materials/Shader Graphs_CartoonWater.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Shader Graphs_CartoonWater.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CTR_Layout_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CTR_Layout_01.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CTR_OBJ_01.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CTR_OBJ_01.fbx.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/CTR_Scene2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/CTR_Scene2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CTR_Scene2/Moon Profile.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CTR_Scene2/Moon Profile.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CTR_Scene_01.ma" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/CTR_Scene_01.ma" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CTR_Scene_09.ma" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CTR_Scene_09.ma.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/FbxExportSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/FbxExportSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1617773772204</updated>
       <workItem from="1617773775185" duration="906000" />
+      <workItem from="1618122092210" duration="23000" />
     </task>
     <servers />
   </component>
@@ -111,6 +113,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
